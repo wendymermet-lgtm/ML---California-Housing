@@ -19,9 +19,7 @@ from sklearn.metrics import (
     classification_report,
     precision_score,
     recall_score,
-    f1_score,
-    roc_curve,
-    roc_auc_score
+    f1_score
 )
 
 class TrainingTools:
